@@ -1,0 +1,6 @@
+{
+  "name": "GULSHAN-E-URDU-BOL",
+  "description": "A modern, responsive Urdu Shayari and poetry directory featuring classic poets, search, interactive poem viewer, and dark mode toggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
